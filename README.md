@@ -1,5 +1,6 @@
 
 [![Docker Build Status](https://img.shields.io/docker/build/zaddo/oas-raml-converter-docker.svg)](https://hub.docker.com/r/zaddo/oas-raml-converter-docker/)
+![Docker Pulls](https://img.shields.io/docker/pulls/zaddo/oas-raml-converter-docker.svg)
 
 # oas-raml-converter-docker
 
