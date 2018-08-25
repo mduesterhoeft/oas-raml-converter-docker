@@ -1,3 +1,6 @@
+
+![Docker Automated build](https://img.shields.io/docker/automated/zaddo/oas-raml-converter-docker.svg)
+
 # oas-raml-converter-docker
 
 Dockerized version of the [oas-raml-converter](https://github.com/mulesoft/oas-raml-converter).
