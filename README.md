@@ -1,5 +1,5 @@
 
-![Docker Automated build](https://img.shields.io/docker/automated/zaddo/oas-raml-converter-docker.svg)
+[![Docker Build Status](https://img.shields.io/docker/build/zaddo/oas-raml-converter-docker.svg)](https://hub.docker.com/r/zaddo/oas-raml-converter-docker/)
 
 # oas-raml-converter-docker
 
@@ -11,6 +11,7 @@ This can be used to convert OpenAPI specifications to RAML and the other way aro
 ```sh
 docker run --rm -v $PWD:/data zaddo/oas-raml-converter-docker:0.1.0 <source-format> <target-format> <source-file> <target-file>
 ```
+
 
 **Example converting an OpenAPI specification into a RAML specification:**
 ```sh
